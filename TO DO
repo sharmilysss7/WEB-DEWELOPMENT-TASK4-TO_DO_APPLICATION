@@ -1,0 +1,34 @@
+# ✅ Task 04: To-Do Web App
+
+## Objective
+Develop a basic **to-do application** that enables users to add and manage their tasks efficiently.
+
+## Task Description
+- Create a simple and user-friendly to-do list application that allows users to:
+  - ➕ Add and organize tasks.
+  - ✔️ Mark tasks as completed.
+  - 📝 Edit tasks.
+  - 🗓️ Set date and time for each task.
+
+## Features
+- Task creation and deletion.
+- Task editing functionality.
+- Mark tasks as done/undone.
+- Set deadline: date and time.
+- Responsive UI for mobile and desktop.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Folder Structure
+
+## Preview
+*Add a screenshot or a hosted app link here once ready.*
+
+## Author
+**Skillsoft Technology**
+
+---
+
